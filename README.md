@@ -9,4 +9,4 @@
 
 ## APi docs
 - swagger
-- visit 'api/documentation'
+- visit on local "api/documentation" for UI
